@@ -5,18 +5,12 @@ A curated list of active resources for technical writers, API writers, documenta
 **Last reviewed:** June 16, 2026  
 **Focus:** software documentation, API documentation, docs-as-code, style guides, accessibility, portfolios, communities, and jobs.
 
-> Maintenance note: This version removes or replaces outdated, non-responsive, invite-expired, or deprecated links from the original list. When possible, old links were replaced with official homepages or more stable alternatives.
-
----
-
 ## How to Use This List
 
 - **New to technical writing?** Start with the Getting Started, Courses, Style Guides, and Books sections.
 - **Building a portfolio?** Focus on API Documentation, Docs-as-Code, Git, Markdown, and Build Your Portfolio.
 - **Applying for developer documentation roles?** Learn OpenAPI, Postman, GitHub workflows, Markdown, docs-as-code, and release notes.
 - **Working on professional docs?** Use the style, accessibility, information architecture, and content testing resources.
-
----
 
 ## Getting Started
 
