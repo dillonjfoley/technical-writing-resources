@@ -1,11 +1,4 @@
 
-
----
-
-
-
----
-
 ## Building Documentation Sites
 
 - [How to Create a Documentation Site from Scratch](https://medium.com/empathyco/how-to-create-a-documentation-site-from-scratch-3ce54bf0257) — Tutorial by José A. Blanco.
